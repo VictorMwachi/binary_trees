@@ -3,6 +3,7 @@
  * binary_tree_insert_left - inserts node as the left child of anode
  * @parent:  is a pointer to the node to insert the left-child in
  * @value: is the value to store in the new node
+ *
  * Return: must return a pointer to the created node,
  * or NULL on failure or if parent is NUL
  */
